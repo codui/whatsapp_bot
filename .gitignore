@@ -1,0 +1,14 @@
+# Environments
+.mypy_cache
+/*venv
+
+# Folders
+/demo_work
+/info
+/chrome_profile
+
+# Files
+.env
+exp.py
+*_exp.py
+some.html
